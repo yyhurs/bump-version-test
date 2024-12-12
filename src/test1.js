@@ -1,3 +1,3 @@
 // test 1-1
 
-// 把 PAT 權限全開再試一次 GitHub Actions
+// 換一把權限全開的 PAT 後，再試一次 GitHub Actions
