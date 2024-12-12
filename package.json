@@ -1,9 +1,10 @@
 {
   "name": "bump-version-test",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
   },
   "keywords": [],
   "author": "",
@@ -11,5 +12,9 @@
   "description": "",
   "devDependencies": {
     "semantic-release": "^24.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yyhurs/bump-version-test.git"
   }
 }
