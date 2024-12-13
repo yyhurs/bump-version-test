@@ -12,3 +12,5 @@
 
 // Reviewed-by: Z
 // Refs: #123
+
+// 不依照 conventional commit message 的格式
