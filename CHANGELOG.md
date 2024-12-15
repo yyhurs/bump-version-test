@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/yyhurs/bump-version-test/compare/v1.4.0...v1.4.1) (2024-12-15)
+
+
+### Bug Fixes
+
+* 看能否自動bump package.json version ([81ba8d4](https://github.com/yyhurs/bump-version-test/commit/81ba8d42ed5dfab4e1f3893c70eb419dbf9052c9))
+
 # [1.4.0](https://github.com/yyhurs/bump-version-test/compare/v1.3.0...v1.4.0) (2024-12-13)
 
 
