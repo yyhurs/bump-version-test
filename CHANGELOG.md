@@ -1,3 +1,11 @@
+## [1.4.2](https://github.com/yyhurs/bump-version-test/compare/v1.4.1...v1.4.2) (2024-12-15)
+
+
+### Bug Fixes
+
+* create npm token  並更新semantic-release npm plugin 設定 ([f6c4783](https://github.com/yyhurs/bump-version-test/commit/f6c478354803bd090bc058a9e06981f9ea89d94e))
+* 在semantic-release補上npm plugin，看能否自動更新package.json version ([ae7db1a](https://github.com/yyhurs/bump-version-test/commit/ae7db1ac19c9c4c2e172a858a78b9c96fdafc76a))
+
 ## [1.4.1](https://github.com/yyhurs/bump-version-test/compare/v1.4.0...v1.4.1) (2024-12-15)
 
 
